@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kth-portafolio/static/css/main.6889aeab.chunk.css",
-    "main.js": "/kth-portafolio/static/js/main.f0f158de.chunk.js",
-    "main.js.map": "/kth-portafolio/static/js/main.f0f158de.chunk.js.map",
+    "main.js": "/kth-portafolio/static/js/main.e09ab276.chunk.js",
+    "main.js.map": "/kth-portafolio/static/js/main.e09ab276.chunk.js.map",
     "runtime-main.js": "/kth-portafolio/static/js/runtime-main.28c8b155.js",
     "runtime-main.js.map": "/kth-portafolio/static/js/runtime-main.28c8b155.js.map",
     "static/js/2.3587c703.chunk.js": "/kth-portafolio/static/js/2.3587c703.chunk.js",
     "static/js/2.3587c703.chunk.js.map": "/kth-portafolio/static/js/2.3587c703.chunk.js.map",
     "index.html": "/kth-portafolio/index.html",
-    "precache-manifest.1ebc51c4ae3d2f85e6cf0ce2daa7b247.js": "/kth-portafolio/precache-manifest.1ebc51c4ae3d2f85e6cf0ce2daa7b247.js",
+    "precache-manifest.0af55c1a04a746a3b83b2249c6d3ec8e.js": "/kth-portafolio/precache-manifest.0af55c1a04a746a3b83b2249c6d3ec8e.js",
     "service-worker.js": "/kth-portafolio/service-worker.js",
     "static/css/main.6889aeab.chunk.css.map": "/kth-portafolio/static/css/main.6889aeab.chunk.css.map",
     "static/js/2.3587c703.chunk.js.LICENSE.txt": "/kth-portafolio/static/js/2.3587c703.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.28c8b155.js",
     "static/js/2.3587c703.chunk.js",
     "static/css/main.6889aeab.chunk.css",
-    "static/js/main.f0f158de.chunk.js"
+    "static/js/main.e09ab276.chunk.js"
   ]
 }
