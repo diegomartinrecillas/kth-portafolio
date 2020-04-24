@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diegomartinrecillas/kth-portafolio/static/css/main.6889aeab.chunk.css",
+    "main.js": "/diegomartinrecillas/kth-portafolio/static/js/main.f0f158de.chunk.js",
+    "main.js.map": "/diegomartinrecillas/kth-portafolio/static/js/main.f0f158de.chunk.js.map",
+    "runtime-main.js": "/diegomartinrecillas/kth-portafolio/static/js/runtime-main.bad76278.js",
+    "runtime-main.js.map": "/diegomartinrecillas/kth-portafolio/static/js/runtime-main.bad76278.js.map",
+    "static/js/2.3587c703.chunk.js": "/diegomartinrecillas/kth-portafolio/static/js/2.3587c703.chunk.js",
+    "static/js/2.3587c703.chunk.js.map": "/diegomartinrecillas/kth-portafolio/static/js/2.3587c703.chunk.js.map",
+    "index.html": "/diegomartinrecillas/kth-portafolio/index.html",
+    "precache-manifest.fe884f313c11ba9f08a66569c63f47d3.js": "/diegomartinrecillas/kth-portafolio/precache-manifest.fe884f313c11ba9f08a66569c63f47d3.js",
+    "service-worker.js": "/diegomartinrecillas/kth-portafolio/service-worker.js",
+    "static/css/main.6889aeab.chunk.css.map": "/diegomartinrecillas/kth-portafolio/static/css/main.6889aeab.chunk.css.map",
+    "static/js/2.3587c703.chunk.js.LICENSE.txt": "/diegomartinrecillas/kth-portafolio/static/js/2.3587c703.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bad76278.js",
+    "static/js/2.3587c703.chunk.js",
+    "static/css/main.6889aeab.chunk.css",
+    "static/js/main.f0f158de.chunk.js"
+  ]
+}
